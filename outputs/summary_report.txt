@@ -1,7 +1,2 @@
-total sales:183000
-total profit: 22000
-total product: Product
-Laptop    105000
-Mobile     45000
-Tablet     33000
-Name: Sales, dtype: int64
+Total Sales: 10667881
+Total Profit: 1844665.21
